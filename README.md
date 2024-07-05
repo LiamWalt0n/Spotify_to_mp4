@@ -18,11 +18,10 @@ A simple desktop GUI application that allows you to download songs from a Spotif
 
 ## Setup
 
-### 1. Clone the Repository
+1. Clone the Repository
 
 First, clone the repository to your local machine:
 
-```sh
 git clone https://github.com/LiamWalt0n/Spotify_to_mp4.git
 cd Spotify_to_mp4
 
