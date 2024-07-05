@@ -60,13 +60,6 @@ Common Issues
 
 pip install --upgrade yt-dlp
 
-FAQ
-
-	•	How do I find my Spotify API credentials?
-	•	Go to the Spotify Developer Dashboard, create a new application, and you will find your Client ID and Client Secret.
-	•	Where are the downloaded songs saved?
-	•	The songs are saved in the Downloaded Songs directory within the project folder.
-
 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
